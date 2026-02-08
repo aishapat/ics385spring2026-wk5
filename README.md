@@ -2,13 +2,23 @@
 
 This is the main page for Course ICS 385 Spring 2026
 
-## Week 1 - Introduction, AI 
+## Week 1 - Introduction
+  - AI
+  - Setup Tools
 
 ## Week 2 - HTML and CSS
-- HW2: Bio Page - [bio.html](week2/hw2/bio.html), [styles.css](week2/hw2/styles.css)
+  - Bio Page 
 
 ## Week 3 - JavaScript
+  - Dicee Challenge
+  - Simon Game Challenge
 
 ## Week 4 - NodeJS
+  - Hello
+  - Hero
+  - QRCode
 
 ## Week 5 - ExpressJS
+  - My-Express-Server
+  - BMI Calculator
+  - Secrets Project
