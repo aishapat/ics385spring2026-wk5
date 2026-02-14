@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>F2C Converter</title>
+  </head>
+  <body>
+    <h1>Fahrenheit to celsius Converter</h1>
+
+    <!-- Form to enter Fahrenheit and submit -->
+    <form action="/f2c" method="post">
+      <!-- Input for Fahrenheit temperature -->
+      <input
+        type="text"
+        name="fahrenheit"
+        placeholder="Enter Fahrenheit"
+        required
+      />
+
+      <!-- Button to convert -->
+      <button type="submit">Convert</button>
+    </form>
+
+    <!-- This will show the Celsius result -->
+    <p id="result"></p>
+  </body>
+</html>
