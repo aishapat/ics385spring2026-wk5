@@ -1,0 +1,36 @@
+SUBMISSION FORM
+Course: ICS385                    Section:
+Instructor: Debasis B.            Semester: Spring 2026
+Student Name: Aisha Patterson     Student ID: 23373850
+Project Title:                    Date: Feb 15, 2026
+Reviewer:                         Review Type:
+
+CODE SUBMISSION DETAILS
+Repository URL: https://github.com/aishapat/ics385spring2026-wk5
+
+CODE OVERVIEW & PURPOSE
+The code is a web app that shows a password form and reveals a secret message when the correct password is entered. 
+It uses Express.js to handle the POST request for the password. The main route is / for the form, and / check handles
+the password submission. 
+
+EVALUATION CRITERIA
+
+DETAILED FINDINGS - CODE-LEVEL OBSERVATIONS
+
+EXPRESS.JS & JAVASCRIPT CHECKLIST
+
+QUALITATIVE FEEDBACK
+Strengths - What does this submission do well?
+: The code works and runs well and the secret message happens to show up correctly when the password is entered.
+
+Areas for improvement - What should the studnet focus on next?
+: Students should focus more on checking for stronger password, more comments and clearer feedbacks for users.
+
+Suggested Learning Resources
+:
+
+OVERALL ASSESTMENT
+
+REQUIRED REVISIONS & ACTION ITEMS
+
+ACADEMIC INTEGRITY AKNOWLEGMENT
